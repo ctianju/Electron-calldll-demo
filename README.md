@@ -14,5 +14,9 @@ dll 64位 （动态库默认是32位的，打包的时候值得注意）
 紧接着下载项目依赖的 npm install --save ffi-napi  
 大功告成，花了一天时间  
 
+集成sqlite3 ，只需2步骤
+1.npm i sqlite3 --save  
+2."postinstall": "install-app-deps"  
+
 
 
