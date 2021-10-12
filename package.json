@@ -6,7 +6,7 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^8.1.1"
+    "electron": "^11.5.0"
   },
   "dependencies": {
     "ffi-napi": "^2.4.7"
